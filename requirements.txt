@@ -1,7 +1,0 @@
-yfinance
-pandas
-numpy
-tensorflow
-scikit-learn
-matplotlib
-joblib
